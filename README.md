@@ -4,6 +4,7 @@ submission of leetcode problems
 |617|[ Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./solutions/617.%20Merge%20Two%20Binary%20TreesC%2B%2B)|76 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20SubarrayC%2B%2B)|12 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20StairsC%2B%2B)|0 ms|
+|198|[ House Robber](https://leetcode.com/problems/house-robber/)|[C++](./solutions/198.%20House%20RobberC%2B%2B)|12 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./solutions/392.%20Is%20SubsequenceC%2B%2B)|88 ms|
 |589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](./solutions/589.%20N-ary%20Tree%20Preorder%20TraversalC%2B%2B)|688 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20StairsC%2B%2B)|8 ms|
