@@ -32,3 +32,4 @@ submission of leetcode problems
 |993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[C++](./solutions/993.%20Cousins%20in%20Binary%20Tree.cpp)|0 ms|
 |1022|[ Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[C++](./solutions/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.cpp)|12 ms|
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|4 ms|
+|1315|[ Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[C++](./solutions/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.cpp)|76 ms|
