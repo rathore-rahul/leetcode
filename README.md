@@ -18,5 +18,6 @@ submission of leetcode problems
 |589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](./solutions/589.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|688 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|8 ms|
 |872|[ Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python3](./solutions/872.%20Leaf-Similar%20Trees.py)|24 ms|
+|993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[C++](./solutions/993.%20Cousins%20in%20Binary%20Tree.cpp)|0 ms|
 |1022|[ Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[C++](./solutions/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.cpp)|12 ms|
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|4 ms|
