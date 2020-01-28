@@ -47,6 +47,7 @@ submission of leetcode problems
 |1123|[ Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[C++](./solutions/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.cpp)|32 ms|
 |1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.cpp)|8 ms|
 |1145|[ Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[C++](./solutions/1145.%20Binary%20Tree%20Coloring%20Game.cpp)|8 ms|
+|1155|[ Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[C++](./solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.cpp)|24 ms|
 |1261|[ Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[C++](./solutions/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.cpp)|76 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[C++](./solutions/1302.%20Deepest%20Leaves%20Sum.cpp)|100 ms|
 |1315|[ Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[C++](./solutions/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.cpp)|76 ms|
