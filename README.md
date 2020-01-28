@@ -44,6 +44,7 @@ submission of leetcode problems
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|4 ms|
 |1026|[ Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[C++](./solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)|20 ms|
 |1123|[ Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[C++](./solutions/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.cpp)|32 ms|
+|1145|[ Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[C++](./solutions/1145.%20Binary%20Tree%20Coloring%20Game.cpp)|8 ms|
 |1261|[ Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[C++](./solutions/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.cpp)|76 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[C++](./solutions/1302.%20Deepest%20Leaves%20Sum.cpp)|100 ms|
 |1315|[ Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[C++](./solutions/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.cpp)|76 ms|
