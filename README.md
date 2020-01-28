@@ -35,6 +35,7 @@ submission of leetcode problems
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|8 ms|
 |814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./solutions/814.%20Binary%20Tree%20Pruning.cpp)|4 ms|
 |872|[ Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python3](./solutions/872.%20Leaf-Similar%20Trees.py)|24 ms|
+|877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[C++](./solutions/877.%20Stone%20Game.cpp)|4 ms|
 |889|[ Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[C++](./solutions/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.cpp)|12 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python3](./solutions/938.%20Range%20Sum%20of%20BST.py)|212 ms|
 |968|[ Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[C++](./solutions/968.%20Binary%20Tree%20Cameras.cpp)|28 ms|
