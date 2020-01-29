@@ -34,6 +34,7 @@ submission of leetcode problems
 |671|[ Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[C++](./solutions/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|0 ms|
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./solutions/687.%20Longest%20Univalue%20Path.cpp)|132 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)|52 ms|
+|718|[ Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[C++](./solutions/718.%20Maximum%20Length%20of%20Repeated%20Subarray.cpp)|184 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|8 ms|
 |814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./solutions/814.%20Binary%20Tree%20Pruning.cpp)|4 ms|
 |872|[ Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python3](./solutions/872.%20Leaf-Similar%20Trees.py)|24 ms|
