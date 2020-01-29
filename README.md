@@ -47,6 +47,7 @@ submission of leetcode problems
 |1022|[ Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[C++](./solutions/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.cpp)|12 ms|
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|4 ms|
 |1026|[ Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[C++](./solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)|20 ms|
+|1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[C++](./solutions/1049.%20Last%20Stone%20Weight%20II.cpp)|0 ms|
 |1105|[ Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[C++](./solutions/1105.%20Filling%20Bookcase%20Shelves.cpp)|4 ms|
 |1123|[ Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[C++](./solutions/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.cpp)|32 ms|
 |1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.cpp)|8 ms|
