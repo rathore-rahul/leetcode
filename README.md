@@ -22,6 +22,7 @@ submission of leetcode problems
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./solutions/392.%20Is%20Subsequence.cpp)|88 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](./solutions/404.%20Sum%20of%20Left%20Leaves.cpp)|4 ms|
 |508|[ Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](./solutions/508.%20Most%20Frequent%20Subtree%20Sum.cpp)|28 ms|
+|516|[ Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[C++](./solutions/516.%20Longest%20Palindromic%20Subsequence.cpp)|80 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|12 ms|
 |572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[C++](./solutions/572.%20Subtree%20of%20Another%20Tree.cpp)|32 ms|
 |589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](./solutions/589.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|688 ms|
